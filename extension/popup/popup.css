@@ -1,0 +1,7 @@
+/* Minimal popup styling */
+body {
+    width: 300px;
+    height: 200px;
+    font-family: sans-serif;
+    padding: 10px;
+}
